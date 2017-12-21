@@ -1,0 +1,17 @@
+{
+  "name": "scene-validator",
+  "version": "1.0.0",
+  "description": "multi scene date validate",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "scene",
+    "data",
+    "validate",
+    "validator"
+  ],
+  "author": "Joey",
+  "license": "ISC"
+}
