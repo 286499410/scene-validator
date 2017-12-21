@@ -12,6 +12,15 @@
     "validate",
     "validator"
   ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git+https://github.com/286499410/scene-validator.git"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/286499410/scene-validator/issues"
+  },
   "author": "Joey",
   "license": "ISC"
 }
